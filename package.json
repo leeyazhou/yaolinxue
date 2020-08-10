@@ -10,7 +10,8 @@
     "build": "vuepress build docs"
   },
   "keywords": [
-    "yaolinxue"
+    "yaolinxue",
+    "vuepress"
   ],
   "devDependencies": {
     "@vuepress/plugin-back-to-top": "^1.5.2",
